@@ -1,0 +1,14 @@
+{
+  "study_id": "PCPT-GRM-SYNTHETIC-BASELINE-2026",
+  "research_status": "SYNTHETIC_MODEL_ONLY",
+  "length_m": 10.0,
+  "k0_m2": 1e-13,
+  "viscosity_Pa_s": 0.001,
+  "storage_Pa_inv": 2e-8,
+  "beta_Pa_inv": 2e-5,
+  "pressure_amplitude_Pa": 10000.0,
+  "period_s": 44712.0,
+  "thermal_conductivity_W_m_K": 2.0,
+  "volumetric_heat_capacity_J_m3_K": 4200000.0,
+  "temperature_difference_K": 0.3
+}

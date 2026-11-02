@@ -1,0 +1,12 @@
+services:
+  pcpt:
+    build: .
+    ports: ["127.0.0.1:8501:8501"]
+    read_only: true
+    tmpfs:
+      - /tmp
+    volumes:
+      - ./outputs:/app/outputs
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true

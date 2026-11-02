@@ -28,7 +28,7 @@ streamlit run app.py
 
 **Minimal CLI only:** `pip install -e .` (UI is optional). For Docker, `docker compose up --build` runs the local Streamlit dashboard at `http://localhost:8501`. `make check` runs tests and compiles Python; `make benchmark` executes the time-dependent finite-volume reference model.
 
-The source report is included in the downloadable project ZIP as `assets/PCPT_v3_Mathematical_Experimental_Validation.pdf`; binary PDFs may require a separate GitHub upload if not present in the remote repository.
+The full PCPT v3.0 scientific manuscript and four precomputed synthetic figures are included under `assets/`. The local and GitHub versions of these assets have been uploaded as identical binary content.
 
 ## System layers
 

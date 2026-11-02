@@ -2,7 +2,7 @@
 """PCPT v3.0: independently rerunnable synthetic GRM verification benchmark.
 
 Research-status notice: all time series are SYNTHETIC model solutions, not field data.
-MIT/BSD-free? Copyright (c) 2026 Vadym Tsinderhoz. All rights reserved.
+Copyright (c) 2026 Vadym Tsinderhoz. All rights reserved.
 Supplementary independently implemented numerical benchmark generated for PCPT v3.0.
 """
 import csv
